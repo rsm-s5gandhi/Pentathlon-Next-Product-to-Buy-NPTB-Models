@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints
+.mypy_cache
+.vscode
+__pycache__
+*.pyc
+push-to-org.sh
+pentathlon-nptb-sol.ipynb
